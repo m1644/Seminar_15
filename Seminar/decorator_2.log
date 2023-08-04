@@ -1,0 +1,4 @@
+INFO | 2023-08-03 10:42:34 | function_plus | 2, 3, 4 | 9
+INFO | 2023-08-03 10:42:34 | function_plus | 10, 20, 30 | 60
+INFO | 2023-08-03 10:42:34 | greet | Max | Hello, Max!
+INFO | 2023-08-03 10:42:34 | greet | John | Hello, John!
